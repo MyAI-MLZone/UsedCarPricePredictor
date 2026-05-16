@@ -35,7 +35,10 @@ Ridge Regression with polynomial degree=2
 Ridge Regression with polynomial degree=3
 
 
-### Parameter tuning with
+### HyperParameter tuning with
 
-GridSearchCV
+GridSearchCV with k-fold validation
+
+
+### Recommendations for the dealerships
 
